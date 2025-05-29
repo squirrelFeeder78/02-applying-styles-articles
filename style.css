@@ -63,6 +63,14 @@ h2 {
   display: inline;
 }
 
+.metadata li img.author-img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
 p {
   margin: 0 0 1rem 0;
   line-height: 1.6;
